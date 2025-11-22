@@ -19,9 +19,9 @@ stakeholders identify trends, top-performing restaurants, and opportunities for 
 
 ## Files in this folder
 - `Zomato_Analytics_dashboard_PBI.pbix` — Power BI report file (main dashboard)
-- `data/` — (optional) cleaned CSV / sample data used for the report
+- `data/` — sample data used for the report
 - `README.md` — project overview (this file)
-- `screenshots/` — (optional) screenshots of the dashboard for quick preview
+- `screenshots/` — screenshots of the dashboard for quick preview
 
 ## Technical Details
 - Tools: Power BI Desktop, Power Query, DAX
